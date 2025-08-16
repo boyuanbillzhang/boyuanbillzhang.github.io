@@ -11,10 +11,11 @@ In this paper, we presented an optimization approach in Federated Learning, addr
 **Stochastic Device Scheduling and Power Control in Federated Learning with Energy Harvesting**
 
 ![second3](/assets/second3.png)
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 15px;">
   <img src="/assets/second1.png" alt="second1" width="45%"/>
   <img src="/assets/second2.png" alt="second2" width="45%"/>
 </div>
+
 In this paper, we studied the effects of scheduling probability and power control in FL. We formulated a stochastic optimization problem that simultaneously minimizes overall communication delay and maximizes the scheduling probability
 of each device under long-term constraints of fairness, power consumption, and battery energy storage. Using the Lyapunov drift-plus-penalty framework, we developed an algorithm, Sto-POLISH, which analytically solves the formulated problem to determine the optimal scheduling probability and transmission power for each device. The proposed algorithm also integrates energy harvesting, outperforming a benchmark in experimental validation by achieving lower battery energy consumption.
 
