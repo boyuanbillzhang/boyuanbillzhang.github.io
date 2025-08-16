@@ -4,8 +4,6 @@ In this paper, we presented an optimization approach in Federated Learning, addr
 
 [*link to the paper*](https://ieeexplore-ieee-org.proxy.queensu.ca/document/10794352/metrics#metrics)
 
----
-
 
 ****
 **Stochastic Device Scheduling and Power Control in Federated Learning with Energy Harvesting**
