@@ -1,15 +1,16 @@
----
-layout: page
-title: "About Me"
----
+--- 
+layout: page 
+title: "About Me" 
+--- 
 
-<style>
-/* Adjust font for better readability */
-.page-content {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 18px;
-  line-height: 1.7;
-}
+<style> 
+/* Adjust font for better readability */   
+.page-content { 
+  font-family: Arial, Helvetica, sans-serif; 
+  font-size: 18px; 
+  line-height: 1.7; 
+} 
+</style>
 
 ![selfie](/assets/selfie.png)
 Hi! I’m Bill Zhang, a recent MASc graduate in Electrical and Computer Engineering from Queen’s University.
