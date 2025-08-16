@@ -3,7 +3,7 @@ layout: page
 title: "About Me" 
 --- 
 
-<img src="assets/selfie.png" align="left" width="250px"/>
+<img src="assets/selfie.png" align="left" width="300px"/>
 
 Hi! I’m Bill Zhang, a recent MASc graduate in Electrical and Computer Engineering from Queen’s University.
 
