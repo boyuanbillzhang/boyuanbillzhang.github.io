@@ -18,26 +18,13 @@ I am passionate about building intelligent AI products and integrating machine l
 
 </h3>
 
+Hi! I’m Bill Zhang, a recent MASc graduate in Electrical and Computer Engineering from Queen’s University.
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <!-- Picture -->
-  <div style="flex: 0 0 auto;">
-    <img src="/assets/selfie.png" alt="Bill Zhang selfie" style="max-width: 200px; border-radius: 50%;">
-  </div>
+I specialize in Federated Learning, Cloud Engineering, Internet of Things applications, and UAV communications. With three publications, my research focuses on leveraging device scheduling and power control to optimize the performance of IoT devices, making them more energy-efficient and time-efficient in sustainable wireless networks.
 
-  <!-- Text -->
-  <div style="flex: 1;">
-    <p>
-      Hi! I’m Bill Zhang, a recent MASc graduate in Electrical and Computer Engineering from Queen’s University.
-    </p>
-    <p>
-      I specialize in Federated Learning, Cloud Engineering, Internet of Things applications, and UAV communications. With three publications, my research focuses on leveraging device scheduling and power control to optimize the performance of IoT devices, making them more energy-efficient and time-efficient in sustainable wireless networks.
-    </p>
-    <p>
-      I am passionate about building intelligent AI products and integrating machine learning into hardware systems to create smart, sustainable solutions.
-    </p>
-  </div>
-</div>
+I am passionate about building intelligent AI products and integrating machine learning into hardware systems to create smart, sustainable solutions.
+
+<img align="right" src="assets/selfie.png">
 
 
 ---
