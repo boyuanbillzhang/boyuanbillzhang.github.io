@@ -15,7 +15,7 @@ title: "About Me"
 
 ![selfie](/assets/selfie.png)
 
-<h3><img alt="</> logotype" src=/assets/selfie.png style="height: 1em; vertical-align: middle;"> 
+<h3><img align="center" height="30" src=/assets/selfie.png> 
 
 Hi! I’m Bill Zhang, a recent MASc graduate in Electrical and Computer Engineering from Queen’s University.
 
