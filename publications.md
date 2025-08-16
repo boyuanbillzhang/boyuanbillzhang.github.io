@@ -6,7 +6,9 @@ INFOCOM 2025 (To be Published)
 In this paper, we presented SAOTA, a novel semi-asynchronous FL framework that combines OTA computation and Lyapunov-based online optimization to tackle the challenges of energy efficiency, training latency, and convergence performance in wireless networks. By adaptively selecting clients and allocating transmit power in each round, SAOTA minimizes convergence error while satisfying long-term energy and time constraints. Evaluation shows that SAOTA leads to higher accuracy, faster convergence and lower energy consumption than FL baselines. These results validate the potential of combining semi-asynchronous methods with OTA computation for scalable, resource-efficient FL in realistic deployment scenarios.
 
 [*link to the paper*]
+
 ****
+
 **Stochastic Device Scheduling and Power Control in Federated Learning with Energy Harvesting**
 ICC 2025
 ![second3](/assets/second3.png)
