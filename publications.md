@@ -11,7 +11,7 @@ In this paper, we presented an optimization approach in Federated Learning, addr
 **Stochastic Device Scheduling and Power Control in Federated Learning with Energy Harvesting**
 
 ![second3](/assets/second3.png)
-<div style="display: flex; justify-content: center; gap: 15px;">
+<div style="display: flex; justify-content: center; gap: 20px;">
   <img src="/assets/second1.png" alt="second1" width="45%"/>
   <img src="/assets/second2.png" alt="second2" width="45%"/>
 </div>
