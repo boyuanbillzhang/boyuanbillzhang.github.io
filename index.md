@@ -3,15 +3,6 @@ layout: page
 title: "About Me" 
 --- 
 
-<style> 
-/* Adjust font for better readability */   
-.page-content { 
-  font-family: Arial, Helvetica, sans-serif; 
-  font-size: 18px; 
-  line-height: 1.7; 
-} 
-</style>
-
 
 ![selfie](/assets/selfie.png)
 
