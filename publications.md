@@ -1,4 +1,5 @@
 **Learning on the Air: Semi-Asynchronous Federated Learning via Over-the-Air Computation**
+
 INFOCOM 2025 (To be Published)
 ![third1](/assets/third1.png)
 ![third2](/assets/third2.png)
@@ -10,6 +11,7 @@ In this paper, we presented SAOTA, a novel semi-asynchronous FL framework that c
 ****
 
 **Stochastic Device Scheduling and Power Control in Federated Learning with Energy Harvesting**
+
 ICC 2025
 ![second3](/assets/second3.png)
 <div style="display: flex; justify-content: center; gap: 20px;">
@@ -27,6 +29,7 @@ of each device under long-term constraints of fairness, power consumption, and b
 
 
 **Joint Power Control and Device Scheduling in Federated Learning with Energy Harvesting**
+
 ICCSPA 2024
 ![first1](/assets/first1.png)
 ![first2](/assets/first2.png)
