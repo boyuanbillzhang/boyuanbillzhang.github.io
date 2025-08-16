@@ -20,4 +20,11 @@ I specialize in Federated Learning, Cloud Engineering, Internet of Things applic
 I am passionate about building intelligent AI products and integrating machine learning into hardware systems to create smart, sustainable solutions.
 
 
+---
+
+- **Programming & Frameworks**: Python, MATLAB, C, PyTorch, TensorFlow, NumPy
+- **Machine Learning & AI**: Federated Learning, Deep Learning, Computer Vision, LLM  
+- **Robotics & Systems**: Solid Works, ROS, PyBullet, Embedded Systems  
+- **Networking & IoT**: GCP, AWS, Oracle Analytics Cloud
+- **Tools & Platforms**: GitHub, Docker, CUDA, Linux (Ubuntu), Salesforce, Prometheus, Grafana, Tableau, Microsoft Dynamics 365  
 
