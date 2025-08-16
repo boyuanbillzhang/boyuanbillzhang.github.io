@@ -19,13 +19,15 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "billzhang_resume.pdf", title: "Resume" sidebaricon: home}
+  - {file: "billzhang_resume.pdf", title: "Resume", sidebaricon: home}
   - {file: "publications.md", title: "Publications", sidebaricon: address-card}
+  - {file: "projects.md", title: "Projects", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "17bz16@queensu.ca"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/boyuanbillzhang/"}
+
+
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
