@@ -1,1 +1,17 @@
+**Joint Power Control and Device Scheduling in Federated Learning with Energy Harvesting**
+
+In this paper, we presented an optimization approach in Federated Learning, addressing the trade-off between communication delay, energy consumption, and scheduling devices. We introduced a power control and a novel device scheduling, POLISH, to minimize delay and energy consumption while maximizing the total number of selected devices. The approach also integrates energy harvesting, outperforming a benchmark through experimental validation.
+
+[*link to the paper*](https://ieeexplore-ieee-org.proxy.queensu.ca/document/10794352/metrics#metrics)
+
+---
+
+
+****
+**Stochastic Device Scheduling and Power Control in Federated Learning with Energy Harvesting**
+
+In this paper, we studied the effects of scheduling probability and power control in FL. We formulated a stochastic optimization problem that simultaneously minimizes overall communication delay and maximizes the scheduling probability
+of each device under long-term constraints of fairness, power consumption, and battery energy storage. Using the Lyapunov drift-plus-penalty framework, we developed an algorithm, StoPOLISH, which analytically solves the formulated problem to determine the optimal scheduling probability and transmission power for each device. The proposed algorithm also integrates energy harvesting, outperforming a benchmark in experimental validation by achieving lower battery energy consumption.
+
+[*link to the paper*](https://icc2025.ieee-icc.org/)
 
