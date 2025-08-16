@@ -10,7 +10,7 @@ I specialize in Federated Learning, Cloud Engineering, Internet of Things applic
 I am passionate about building intelligent AI products and integrating machine learning into hardware systems to create smart, sustainable solutions.</h3>
 
 
-<img src="assets/selfie.png" align="left" width="200px"/>
+<img src="assets/selfie.png" align="left" width="300px"/>
 
 Hi! I’m Bill Zhang, a recent MASc graduate in Electrical and Computer Engineering from Queen’s University.
 
