@@ -22,7 +22,7 @@ I am passionate about building intelligent AI products and integrating machine l
 
 ---
 My skills include, but are not limited to:
-- **Programming & Frameworks**: Python, MATLAB, C, PyTorch, TensorFlow, NumPy
+- **Programming & Frameworks**: Python, MATLAB, C, PyTorch, TensorFlow, NumPy, Pandas
 - **Machine Learning & AI**: Federated Learning, Deep Learning, Computer Vision, LLM  
 - **Robotics & Systems**: Solid Works, ROS, PyBullet, Embedded Systems  
 - **Networking & IoT**: GCP, AWS, Oracle Analytics Cloud
