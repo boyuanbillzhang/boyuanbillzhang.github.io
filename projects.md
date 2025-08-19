@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Projects"
 ---
 
 ## Here are some of my projects:
@@ -15,3 +14,7 @@ I created an AI chatbot that can communicate with audiences on my behalf. It can
 ></script>
 
 <gradio-app src="https://billyking121-career-conversation.hf.space"></gradio-app>
+
+****
+
+<ins>Another Project</ins>
