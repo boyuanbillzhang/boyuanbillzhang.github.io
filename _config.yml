@@ -24,7 +24,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "projects.md", title: "Projects", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "17bz16@queensu.ca"}
+  - {title: Mail, icon: envelope, url: "mailto:17bz16@queensu.ca"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/boyuanbillzhang/"}
 
 
