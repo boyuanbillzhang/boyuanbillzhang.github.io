@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Here are some of my projects:
+title: Here are some of my projects
 ---
 
 <ins>Personal Career Chatbox </ins>
