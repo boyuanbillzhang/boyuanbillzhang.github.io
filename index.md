@@ -9,6 +9,7 @@ title: "About Me"
 
 I am passionate about building intelligent AI products and integrating machine learning into hardware systems to create smart, sustainable solutions.
 
+Let's engineer the future together! 
 
 
 ---
