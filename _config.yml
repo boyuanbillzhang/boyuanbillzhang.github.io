@@ -19,7 +19,7 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {url: "/resuem_2025.pdf", title: "Resume", sidebaricon: home}
+  - {url: "/resume_Bill Zhang.pdf", title: "Resume", sidebaricon: home}
   - {file: "publications.md", title: "Publications", sidebaricon: address-card}
   - {file: "projects.md", title: "Projects", sidebaricon: address-card}
 
