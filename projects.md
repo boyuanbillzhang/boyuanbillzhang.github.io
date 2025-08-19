@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Here are some of my projects:
 ---
-
-## Here are some of my projects:
 
 <ins>Personal Career Chatbox </ins>
 
